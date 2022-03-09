@@ -47,7 +47,7 @@ export const sliderItems = [
     },
     {
       id:2,
-      img:"https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+      img:"https://cdn.pancake.vn/1/s800x800/d2/64/51/da/3d92418dc331c7fe36e73f4ed0af1f513514be5c199173c16dc9caee.JPG",
     },
     {
       id:3,
@@ -67,7 +67,7 @@ export const sliderItems = [
     },
     {
       id:7,
-      img:"https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+      img:"https://cdn.pancake.vn/1/s800x800/70/31/ff/6b/999a7c157304c22abc81104c3b2960248ab77107d1fab5e659891bd7.JPG",
     },
     {
       id:8,
